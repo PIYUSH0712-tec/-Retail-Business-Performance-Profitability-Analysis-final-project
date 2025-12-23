@@ -1,9 +1,9 @@
-Retail Business Performance & Profitability Analysis
- Project Overview
+** Retail Business Performance & Profitability Analysis
+ * Project Overview
 
 This project analyzes retail transactional data to evaluate business performance, identify profit-draining categories, and understand sales and profitability trends across products and regions. The analysis integrates SQL, Python (Pandas), and Tableau to deliver actionable business insights.
 
- Objectives
+* Objectives
 
 Identify high and low profit-generating categories and sub-categories
 
@@ -13,7 +13,7 @@ Understand seasonal and regional sales trends
 
 Support data-driven retail decision-making
 
- Tools & Technologies
+* Tools & Technologies
 
 SQL (SQLite): Data cleaning, aggregation, and profit calculations
 
@@ -23,7 +23,8 @@ Tableau: Interactive dashboard visualization
 
 Excel / CSV: Data validation and exports
 
- Steps Performed
+
+* Steps Performed
 
 Imported and cleaned retail transaction data using SQL
 
@@ -37,14 +38,14 @@ Built an interactive Tableau dashboard with filters for region, product type, an
 
 Derived actionable business insights and recommendations
 
- Tableau Dashboard
+* Tableau Dashboard
 
  View Dashboard: https://public.tableau.com/app/profile/piyush.bidwaikar/viz/SuperstoreSalesProfitDashboard_17659678000730/Dashboard1 
 
-Dashboard Preview:
 
 
- Repository Contents
+
+* Repository Contents
 
 SQL/ – SQL queries used for analysis
 
@@ -54,7 +55,7 @@ Report/ – Final PDF report with insights
 
 
 
- Key Insights
+* Key Insights
 
 Certain categories contribute high revenue but low profit margins
 
@@ -62,11 +63,13 @@ Overstocked or slow-moving items negatively impact profitability
 
 Seasonal demand patterns significantly affect sales performance
 
- Conclusion
+ 
+* Conclusion
 
 This project demonstrates the effective use of SQL, Python, and Tableau to analyze retail business performance. The insights help identify optimization opportunities in inventory management, pricing strategy, and category-level decision-making.
 
- Author
+
+* Author
 
 Piyush Bidwaikar
 Email: piyushbidwaikar123@gmail.com
